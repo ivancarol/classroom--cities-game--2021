@@ -8,19 +8,19 @@ Benvingut!
 Abans de començar, omple el següent qüestionari:
 
 - Quin és el teu nom?
-  ________________________________________
+  Ivan Carol Navas
 
 - Modifica el `pom.xml` i concatena pel davant el teu usuari 
   de GitHub a artifactId
 
 - Vas participar en el canvi de tema?
-  ________________________________________
+  Sí
 
 - En punts, quin pes diries que vas aportar al canvi de tema?
-  ______
+  5
 
 - Qui va contribuir més en el canvi de tema del teu grup?
-  ________________________________________
+  Tots vam contribuir.
 
 
 ## Setup
