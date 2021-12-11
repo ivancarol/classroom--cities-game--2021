@@ -7,12 +7,13 @@ coder: ivancarol
 Escriu aquí el post de la funcionalitat descrita a l'enunciat.
 No canviïs el nom del fitxer ni el títol del post.
 
-## Que afegeixes?
+## Carregar patates
 
-Què necessites per començar? Quina acció fas? Quin resultat trobes?
-
- * Given that "leonard" is playing.
  * Go to the next player "leonard"
  <!-- SNAPSHOT status=200 -->
  * Go to the "leonard" "city" "Capital".
+
+### Calen que les patates existeixin
+- Afegir a ResourcedTyped
+  * The resource “potato” round increment should be 0.
 
