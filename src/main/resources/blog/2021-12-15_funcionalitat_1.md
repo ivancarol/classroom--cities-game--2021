@@ -1,6 +1,6 @@
 ---
-writer: examen
-coder: examen
+writer: ivancarol
+coder: ivancarol
 ---
 # Funcionalitat 1
 

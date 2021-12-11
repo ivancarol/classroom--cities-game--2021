@@ -1,0 +1,3 @@
+name: Ivan Carol Navas
+email: icarol@edu.tecnocampus.cat
+github: ivancarol
